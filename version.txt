@@ -1,0 +1,11 @@
+12-04-2010
+
+main.php
+- Fixed snircd support. Mostly just removing timestamp at channel actions.
+  At the moment not fully supported, but hey it's running.
+- Fixed Google script - up to date and using .com
+- Fixed Google join on invite (added # for joining)
+
+config.php:
+
+- $config['numeric'] - changed second char lowercase
