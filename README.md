@@ -18,8 +18,8 @@ It contains the following bots:
 
 Install & run
 --------------
-Import the .sql file
-Edit config.php
+- Import the .sql file
+- Edit config.php
 
 To run it:
-php main.php
+- php main.php
